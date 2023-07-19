@@ -216,8 +216,8 @@ online-content-title p {
 
 .online-img>img {
     background-color: black;
-    opacity: 0.4;
-    pointer-events: none;
+    /* opacity: 0.4;
+    pointer-events: none; */
     border-radius: 16px;
 }
 
