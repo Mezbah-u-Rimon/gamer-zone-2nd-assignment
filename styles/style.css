@@ -416,6 +416,10 @@ online-content-title p {
         flex-direction: column-reverse;
     }
 
+    .banner-title {
+        font-size: 5rem;
+    }
+
     .banner-img,
     .banner-content {
         width: 80%;
@@ -469,7 +473,7 @@ online-content-title p {
     .footer-description {
         flex-wrap: wrap;
         gap: 40px;
-        margin: 0px 70px;
+        margin: 0px 40px;
     }
 
     .footer-description {
@@ -507,7 +511,7 @@ online-content-title p {
 
     .banner-img,
     .banner-content {
-        width: 100%;
+        width: 90%;
         padding: 50px 100px;
     }
 
