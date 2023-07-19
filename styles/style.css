@@ -418,8 +418,8 @@ online-content-title p {
 
     .banner-img,
     .banner-content {
-        width: 100%;
-        padding: 0px 50px;
+        width: 80%;
+        padding: 50px 50px;
     }
 
     .online-game-content {
@@ -451,18 +451,18 @@ online-content-title p {
     }
 
     .button-container {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
         padding: 100px 10px;
         gap: 10px;
+    }
+
+    .footer-container {
+        padding: 100px 50px;
     }
 
     .footer-list ul {
         flex-wrap: wrap;
         gap: 40px;
-    }
-
-    .footer-container {
-        padding: 100px 80px;
     }
 
     .social-media,
@@ -473,8 +473,8 @@ online-content-title p {
     }
 
     .footer-description {
-        gap: 30px;
-        margin: 0px 40px;
+        gap: 20px;
+        margin: 0px 20px;
     }
 
     .hr-line {
